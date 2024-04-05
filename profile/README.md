@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-The CX Technology Team develops and maintains a diverse range of innovative products, including Marketplace, Scout, and Registration Guinness. Our talented team collaborates to deliver high-quality, user-centric solutions that enhance the customer experience and drive business growth. We embrace agile methodologies and best practices to ensure our products are reliable, scalable, and secure.
+The CX Technology Team develops and maintains a diverse range of innovative products, including Marketplace, Scout, and Registration, Guinness Club. Our talented team collaborates to deliver high-quality, user-centric solutions that enhance the customer experience and drive business growth. We embrace agile methodologies and best practices to ensure our products are reliable, scalable, and secure.
 
 ## 🌏 Useful resources
 
