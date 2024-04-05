@@ -7,15 +7,6 @@
 The CX Technology Team develops and maintains a diverse range of innovative products, including Marketplace, Scout, and Registration Guinness. Our talented team collaborates to deliver high-quality, user-centric solutions that enhance the customer experience and drive business growth. We embrace agile methodologies and best practices to ensure our products are reliable, scalable, and secure.
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-.github:
-| Repository Name | Link                                                                | Type     |
-|-----------------|-------------------------------------------------------------------|----------|
-| .github         | [.github](https://github.com/cxtechnology/.github)               | N/A      |
-
-3PS:
-| Repository Name        | Link                                                                                        | Type       |
-|-----------------------|-------------------------------------------------------------------------------------------|------------|
-| 3PS Supplier Portal Frontend | [3PS.SupplierPortal.FE](https://github.com/cxtechnology/3PS.SupplierPortal.FE)           | Frontend |
 
 Apollo:
 | Repository Name                      | Link                                                                                                           | Type       |
@@ -31,11 +22,23 @@ Apollo:
 | Apollo Notification Backend          | [Apollo.Aunz.Notification.BE](https://github.com/cxtechnology/Apollo.Aunz.Notification.BE)                   | Backend    |
 | Apollo Cart Backend                  | [Apollo.Aunz.Cart.BE](https://github.com/cxtechnology/Apollo.Aunz.Cart.BE)                                   | Backend    |
 | Apollo Frontend Web                        | [apollo.fe.web](https://github.com/cxtechnology/apollo.fe.web)                                               | Frontend   |
-
-apollo-sdk:
-| Repository Name | Link                                                                    | Type     |
-|-----------------|----------------------------------------------------------------------|----------|
 | Apollo SDK      | [apollo-sdk](https://github.com/cxtechnology/apollo-sdk)            | N/A      |
+
+mercury:
+| Repository Name | Link                                                                        | Type     |
+|-----------------|-------------------------------------------------------------------------|----------|
+| Mercury         | [mercury](https://github.com/cxtechnology/mercury)                      | N/A      |
+
+Scout:
+| Repository Name               | Link                                                                                                    | Type       |
+|-------------------------------|-------------------------------------------------------------------------------------------------------|------------|
+| Scout Sales Area Backend       | [Scout.Aunz.SalesArea.BE](https://github.com/cxtechnology/Scout.Aunz.SalesArea.BE)                    | Backend    |
+| Scout Orchestration Backend   | [Scout.Aunz.Orchestration.BE](https://github.com/cxtechnology/Scout.Aunz.Orchestration.BE)            | Backend    |
+
+3PS:
+| Repository Name        | Link                                                                                        | Type       |
+|-----------------------|-------------------------------------------------------------------------------------------|------------|
+| 3PS Supplier Portal Frontend | [3PS.SupplierPortal.FE](https://github.com/cxtechnology/3PS.SupplierPortal.FE)           | Frontend |
 
 Baseline:
 | Repository Name                   | Link                                                                                                       | Type       |
@@ -75,11 +78,6 @@ Illion:
 |-------------------------|-----------------------------------------------------------------------------------------|----------|
 | Illion Schema Validator | [Illion.Schema.Validator](https://github.com/cxtechnology/Illion.Schema.Validator)     | N/A      |
 
-mercury:
-| Repository Name | Link                                                                        | Type     |
-|-----------------|-------------------------------------------------------------------------|----------|
-| Mercury         | [mercury](https://github.com/cxtechnology/mercury)                      | N/A      |
-
 registration:
 | Repository Name | Link                                                                             | Type       |
 |-----------------|------------------------------------------------------------------------------|------------|
@@ -109,12 +107,6 @@ salesdashboard:
 |---------------------|--------------------------------------------------------------------------------------|------------|
 | Sales Dashboard Frontend   | [salesdashboard.fe](https://github.com/cxtechnology/salesdashboard.fe)               | Frontend   |
 
-Scout:
-| Repository Name               | Link                                                                                                    | Type       |
-|-------------------------------|-------------------------------------------------------------------------------------------------------|------------|
-| Scout Sales Area Backend       | [Scout.Aunz.SalesArea.BE](https://github.com/cxtechnology/Scout.Aunz.SalesArea.BE)                    | Backend    |
-| Scout Orchestration Backend   | [Scout.Aunz.Orchestration.BE](https://github.com/cxtechnology/Scout.Aunz.Orchestration.BE)            | Backend    |
-
 SignatureRewards:
 | Repository Name     | Link                                                                                        | Type       |
 |---------------------|-----------------------------------------------------------------------------------------|------------|
@@ -124,6 +116,3 @@ Vanguard:
 | Repository Name         | Link                                                                                             | Type       |
 |-------------------------|------------------------------------------------------------------------------------------------|------------|
 | Vanguard Invitation Frontend  | [Vanguard.Invitation.FE](https://github.com/cxtechnology/Vanguard.Invitation.FE)               | Frontend   |
-
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
