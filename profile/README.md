@@ -95,7 +95,7 @@ The CX Technology Team develops and maintains a diverse range of innovative prod
 |---------------------|-----------------------------------------------------------------------------------------|------------|
 | Signature Rewards | [SignatureRewards.BE](https://github.com/cxtechnology/SignatureRewards.BE)              | Backend    |
 
-###Vanguard:
+### Vanguard:
 | Repository Name         | Link                                                                                             | Type       |
 |-------------------------|------------------------------------------------------------------------------------------------|------------|
 | Vanguard Invitation  | [Vanguard.Invitation.FE](https://github.com/cxtechnology/Vanguard.Invitation.FE)               | Frontend   |
