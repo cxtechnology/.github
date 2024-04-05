@@ -23,7 +23,7 @@ The CX Technology Team develops and maintains a diverse range of innovative prod
 ### Mercury:
 | Repository Name | Link                                                                        | Type     |
 |-----------------|-------------------------------------------------------------------------|----------|
-| Mercury         | [mercury](https://github.com/cxtechnology/mercury)                      | N/A      |
+| Mercury         | [mercury](https://github.com/cxtechnology/mercury)                      | Frontend      |
 
 ### Scout:
 | Repository Name               | Link                                                                                                    | Type       |
