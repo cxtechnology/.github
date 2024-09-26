@@ -5,20 +5,21 @@ The CX Technology Team develops and maintains a diverse range of innovative prod
 ## 🌏 Useful resources
 
 ### Apollo:
-| Repository Name                      | Link                                                                                                           | Type       |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------|------------|
-| Apollo Orchestrator               | [Apollo.Orchestrator.BE](https://github.com/cxtechnology/Apollo.Orchestrator.BE)                             | Backend    |
-| Apollo Product               | [Apollo.Aunz.Product.BE](https://github.com/cxtechnology/Apollo.Aunz.Product.BE)                             | Backend    |
-| Apollo Support               | [Apollo.Aunz.Support.BE](https://github.com/cxtechnology/Apollo.Aunz.Support.BE)                             | Backend    |
-| Apollo Order                 | [Apollo.Aunz.Order.BE](https://github.com/cxtechnology/Apollo.Aunz.Order.BE)                                 | Backend    |
-| Apollo Async                 | [Apollo.Aunz.Async.BE](https://github.com/cxtechnology/Apollo.Aunz.Async.BE)                                 | Backend    |
-| Apollo Customer              | [Apollo.Aunz.Customer.BE](https://github.com/cxtechnology/Apollo.Aunz.Customer.BE)                           | Backend    |
-| Apollo User                  | [Apollo.Aunz.User.BE](https://github.com/cxtechnology/Apollo.Aunz.User.BE)                                   | Backend    |
-| Apollo                            | [Apollo.FE](https://github.com/cxtechnology/Apollo.FE)                                                       | Frontend   |
-| Apollo Notification          | [Apollo.Aunz.Notification.BE](https://github.com/cxtechnology/Apollo.Aunz.Notification.BE)                   | Backend    |
-| Apollo Cart                  | [Apollo.Aunz.Cart.BE](https://github.com/cxtechnology/Apollo.Aunz.Cart.BE)                                   | Backend    |
-| Apollo Web                        | [apollo.fe.web](https://github.com/cxtechnology/apollo.fe.web)                                               | Frontend   |
-| Apollo SDK      | [apollo-sdk](https://github.com/cxtechnology/apollo-sdk)            | N/A      |
+| Repository Name              | Link                                                                                                                 | Type       |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------|------------|
+| Apollo Orchestrator          | [Apollo.Orchestrator.BE](https://github.com/cxtechnology/Apollo.Orchestrator.BE)                                     | Backend    |
+| Apollo Product               | [Apollo.Aunz.Product.BE](https://github.com/cxtechnology/Apollo.Aunz.Product.BE)                                     | Backend    |
+| Apollo Support               | [Apollo.Aunz.Support.BE](https://github.com/cxtechnology/Apollo.Aunz.Support.BE)                                     | Backend    |
+| Apollo Order                 | [Apollo.Aunz.Order.BE](https://github.com/cxtechnology/Apollo.Aunz.Order.BE)                                         | Backend    |
+| Apollo Async                 | [Apollo.Aunz.Async.BE](https://github.com/cxtechnology/Apollo.Aunz.Async.BE)                                         | Backend    |
+| Apollo Customer              | [Apollo.Aunz.Customer.BE](https://github.com/cxtechnology/Apollo.Aunz.Customer.BE)                                   | Backend    |
+| Apollo User                  | [Apollo.Aunz.User.BE](https://github.com/cxtechnology/Apollo.Aunz.User.BE)                                           | Backend    |
+| Apollo Address               | [Apollo.Aunz.Address.BE](https://github.com/cxtechnology/Apollo.Aunz.Address.BE)                                     | Backend    |
+| Apollo                       | [Apollo.FE](https://github.com/cxtechnology/Apollo.FE)                                                               | Frontend   |
+| Apollo Notification          | [Apollo.Aunz.Notification.BE](https://github.com/cxtechnology/Apollo.Aunz.Notification.BE)                           | Backend    |
+| Apollo Cart                  | [Apollo.Aunz.Cart.BE](https://github.com/cxtechnology/Apollo.Aunz.Cart.BE)                                           | Backend    |
+| Apollo Web                   | [apollo.fe.web](https://github.com/cxtechnology/apollo.fe.web)                                                       | Frontend   |
+| Apollo SDK                   | [apollo-sdk](https://github.com/cxtechnology/apollo-sdk)                                                             | N/A        |
 
 ### Mercury:
 | Repository Name | Link                                                                        | Type     |
