@@ -33,11 +33,6 @@ The CX Technology Team develops and maintains a diverse range of innovative prod
 | Scout Orchestration   | [Scout.Aunz.Orchestration.BE](https://github.com/cxtechnology/Scout.Aunz.Orchestration.BE)            | Backend    |
 | Sales Dashboard   | [salesdashboard.fe](https://github.com/cxtechnology/salesdashboard.fe)               | Frontend   |
 
-### 3PS:
-| Repository Name        | Link                                                                                        | Type       |
-|-----------------------|-------------------------------------------------------------------------------------------|------------|
-| 3PS Supplier Portal | [3PS.SupplierPortal.FE](https://github.com/cxtechnology/3PS.SupplierPortal.FE)           | Frontend |
-
 ### Baseline:
 | Repository Name                   | Link                                                                                                       | Type       |
 |-----------------------------------|----------------------------------------------------------------------------------------------------------|------------|
